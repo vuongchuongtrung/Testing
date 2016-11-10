@@ -1,0 +1,19 @@
+h:\
+===========================================================================================
+   Id   FileName                 Extension    If   For   While   Switch   Total   No.Word
+===========================================================================================
+    1   HotDogStand              .cpp          0     0       0        0       0       101
+    2   OS-Revision_CA1          .docx         0     0       0        0       0         8
+    3   OS-Revision_CA1          .pdf          0     0       0        0       0       224
+    4   HotDogStand              .h            0     1       0        0       1        49
+    5   test2 - Copy             .txt          2     2       2        2       8        50
+    6   test2                    .txt          2     2       2        2       8        50
+    7   main                     .cpp          9     2       2        0      13       534
+    8   dirent - Copy (2)        .h            2    12       0        0      14      1441
+    9   dirent - Copy            .h            2    12       0        0      14      1441
+   10   dirent                   .h            2    12       0        0      14      1441
+   11   dirent                   .cpp         37     5       2        1      45      1832
+===========================================================================================
+File 5 is similar to file 6
+File 8 is similar to file 9
+File 9 is similar to file 10
