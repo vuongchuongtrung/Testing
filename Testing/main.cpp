@@ -1,7 +1,7 @@
 /* Group Members:
-* Ian Stafford			X00121946
-* Chuong Trung Vuong	X00123743
-*/
+ * Ian Stafford			X00121946
+ * Chuong Trung Vuong	X00123743
+ */
 
 /***************
 Usage: Based

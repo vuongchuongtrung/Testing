@@ -1,10 +1,10 @@
 #include "dirent.h"
 
 /*
-* Open directory stream DIRNAME for read and return a pointer to the
-* internal working area that is used to retrieve individual directory
-* entries.
-*/
+ * Open directory stream DIRNAME for read and return a pointer to the
+ * internal working area that is used to retrieve individual directory
+ * entries.
+ */
 static _WDIR* _wopendir(const wchar_t *dirname) {
 	_WDIR *dirp = NULL;
 	int error;
